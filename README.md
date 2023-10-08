@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer who mainly develops backend side. I have worked mainly for DSP on advertising platforms. And currently working as a backend engineer at LINE Plus.
+I'm a software engineer who mainly develops backend side. I have worked mainly for DSP on advertising platforms. And currently working as a backend engineer at Bucketpalce.
 
 ### 🧑‍💻 I've worked at
 
@@ -28,7 +28,6 @@ Ad Platform Server Engineer
 
 Ad Platform Server Engineer
 
----
 <!--
 **hychul/hychul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
